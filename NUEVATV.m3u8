@@ -1,0 +1,68 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/10/57/ee810ae644028eb1793e34aeeb1f/logo-uno.png", Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", Canal de las estrellas 
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png", Imagen Tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+#EXTINF:-1 tvg-logo="https://manualdeimagen.canal22.org.mx/img/int_ac.png", Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIxIDg6MTM6MzIgQU0maGFzaF92YWx1ZT12Y0FsTk13OUhiRHIvRUhBRFpVQ3hnPT0mdmFsaWRtaW51dGVzPTUmaWQ9&token=M4w6AigahlgvD1-e8J1qvw&expires=1734673047
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtpY6OycCTN7uuOeG4uO5FwhE3Gt3q5r2tLP0pZwVOPP3Iuw0kgauQAc&s=10", PeliMex
+https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1144px-Multimedios_Canal_Seis_Logo.svg.png", Multimedios Laguna 
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?uid=IDERpAF4tWjteH2DA45Ksib5Mo0blNM6&sid=MYWd8Xgdb4LkcyXM38XVNYvfYwdHPW1E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", Azteca 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.avalanz.com/assets/img/clients/logo-info7.png", Azteca Mty
+https://live.info7.mx/info7/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWIFuItM-ae5izbDIJn4b9d_cz1JNg2hpCkH3RlLKN_eu6RUoOgXFSQBk&s=10", Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=IDERpAF4tWjteH2DA45Ksib5Mo0blNM6&sid=IP5ITO7poDqCQ2mNSyb8Ij
+#EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/thumbnail_logo_rcg_media_250_1_69610a5309.png", RCG
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png", Once
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png", Milenio 
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=IDERpAF4tWjteH2DA45Ksib5Mo0blNM6&sid=4myimTRGMqWwMCsVuSM9azn
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ae9e39_98c192d6a3754e0188199e96fc46b514~mv2.png/v1/fill/w_1920,h_1080,al_c/ae9e39_98c192d6a3754e0188199e96fc46b514~mv2.png", Maria Visión 
+https://1601580044.rsc.cdn77.org/live/_jcn_/Mariavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ewtn-logo-png-transparent.png", EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png", Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", Estrella Tv
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png", D drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://srtvnl.com/wp-content/uploads/2020/03/Logo_Canal28_2020_png.png", TvNL
+https://s5.mexside.net:1936/canal28/canal28/chunklist_w876376266.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png", TlNovelas
+http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_RCN_Televisi%C3%B3n.png/1200px-Logo_RCN_Televisi%C3%B3n.png", RCN +
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png", DC
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10294.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png", Animal Planet
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10303.m3u8
+#EXTINF:-1 tvg-logo="https://url-del-logo.com/logo.png", Discovery Chanel 
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10302.m3u8
+#EXTINF:-1 tvg-logo="https://www.avalanz.com/assets/img/clients/logo-info7.png", Info 7 Coahuila 
+https://live.info7.mx/coah/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_footer.png", TvP Culiacán 
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png", Chilevisión 
+https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8?uid=IDERpAF4tWjteH2DA45Ksib5Mo0blNM6&sid=CtQhiidAW3mwPL8MfUvdrU1Vr2kYWTLm&pid=ocXSQ5UAXPlGdc3Y4PgjesfsY9SSBfGP&an=mdstrm-player&at=web-app&av=v6.0.107&ref=https%3A%2F%2Fwww.chilevision.cl%2F&res=328x184&without_cookies=false&listenerid=&dnt=true&access_token=xsEKD493tYNEQBz9qkjlWjEcS57kJRQSJFATeW9B0sQUMjs4iPW5I8WFncmGckubsqWBNlNhqem&adInsertionGoogleStreamId=df9ea666-e6a6-423e-9b7b-b9581ddac7ce:CHS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png", Mexiquense Tv
+https://5fe2654d6127d.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNCAxMTowMjoxMiBQTSZoYXNoX3ZhbHVlPW5zRjkzMGV0ejZwbG9HUDhTa2Q4NXc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0=
+#EXTINF:-1 tvg-logo="https://url-del-logo.com/logo.png", STUDIO UNIVERSAL
+https://jactvpro.xyz/auth/10285.m3u8?token=ltnxiM6ODiijn8THrHWe1Vo6SZG8822_g9kX2L2w3IW6W72Ix80Q7JLBD-tjEpvDGnxGiqUdrlOqB5IWDH0emCQqD_cys3brdZJAYKx-MX4Sw3bkE-nz6-DTVq2qVAJuHsJbnBJa7I8_8rixQTDL-9rzAwRY0f1boXAHljN1GpE4JqZFaom1NWVLairVHwMkpKTzabXxO_qjFKgAmhPLHyYxg06PIMpRx5HqJuvZdiBPSRqMv5rUqr_F6QLj4Dvt4S0jE5ztnmGQx4GhGyGlt6uposwQ0ho2bSwvTHA91j98a5ndKI5cmsbySmNkeS0XX5TvJ-zyye3vo4d3WwbKL2fjvdrc31zOfleWIapTxP6rOKk13j8idQP8BQAl_Z0kuB6_ag2-yaYptrfcWrvGOEfGz-waV806eOZqr2FmqmvLtSZkmSm1LjQu_cogL7G53bT0V0t9Ie7NVOiAdw4-l_tQySdh5NO8ni02uGrLnwylTw16HU5eNk9aTNYYvmib3VilN8BaICNeknlgBYSiU3DLwSeSG5Fwpsb_aQ203P_DmLS6CgomD3lVFd4ezimK-D7I5CfU99mOeYkNujkLwZB-8Tpjgl3J4agKQtB09ywqSjC23czRA1qBHW7Z6sQd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg", TNT
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10272.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png", Claro Cinema
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10292.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg", FX
+https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10289.m3u8
+#EXTINF:-1 tvg-logo="https://url-del-logo.com/logo.png", 
+
+#EXTINF:-1 tvg-logo="https://url-del-logo.com/logo.png", 
